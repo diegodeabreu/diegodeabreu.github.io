@@ -10,15 +10,16 @@ h1 {
 #main {
     max-width: 1280px;
     width: 80%;
+    background-color: darkgreen;
 }
 
 #photo {
     width: 30%;
-    border-color: 1px solid red;
+    background-color: red;
     float: left;
 }
 #profile {
     width: 70%;
     float: right;
-    border: 1px solid slateblue;
+    background-color: slateblue;
 }
