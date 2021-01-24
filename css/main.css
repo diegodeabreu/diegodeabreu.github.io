@@ -8,15 +8,17 @@ h1 {
 }
 
 #main {
-    width: 100%;
-    border: 1px solid red;
+    max-width: 1280px;
+    width: 80%;
 }
 
 #photo {
     width: 30%;
+    border-color: red;
     float: left;
 }
 #profile {
     width: 70%;
     float: right;
+    border-color: slateblue;
 }
