@@ -6,3 +6,16 @@ h1 {
     color: navy;
     margin-left: 20px;
 }
+
+#main {
+    width: 100%;
+}
+
+#photo {
+    width: 30%;
+    border: 1px solid black;
+}
+#profile {
+    width: 70%;
+    border: 1px solid black;
+}
