@@ -14,11 +14,11 @@ h1 {
 
 #photo {
     width: 30%;
-    border-color: red;
+    border-color: 1px solid red;
     float: left;
 }
 #profile {
     width: 70%;
     float: right;
-    border-color: slateblue;
+    border: 1px solid slateblue;
 }
