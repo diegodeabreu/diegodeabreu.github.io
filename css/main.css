@@ -14,11 +14,9 @@ h1 {
 
 #photo {
     width: 30%;
-    border: 1px solid black;
     float: left;
 }
 #profile {
     width: 70%;
-    border: 1px solid black;
     float: right;
 }
